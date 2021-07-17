@@ -12,7 +12,6 @@
 
 from .angola import Angola, AO, AGO
 from .argentina import Argentina, AR, ARG
-from .uruguay import Uruguay, UY, URY
 from .aruba import Aruba, AW, ABW
 from .australia import Australia, AU, AUS
 from .austria import Austria, AT, AUT
@@ -93,4 +92,5 @@ from .united_kingdom import (
     GBR,
 )
 from .united_states import UnitedStates, US, USA
+from .uruguay import Uruguay, UY, URY
 from .vietnam import Vietnam, VN, VNM
